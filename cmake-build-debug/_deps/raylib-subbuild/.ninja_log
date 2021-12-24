@@ -1,0 +1,21 @@
+# ninja log v5
+5311	5318	1639933691352266551	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	266d301bb1bd1ad
+0	48	1639933686082266514	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	610114885738654f
+5293	5299	1639933691332266551	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	c92ca7bb6bad3986
+5311	5318	1639933691352266551	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	266d301bb1bd1ad
+5287	5293	1639933691325599884	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	a9619af5b4b228cb
+5311	5318	1639933691352266551	CMakeFiles/raylib-populate-complete	266d301bb1bd1ad
+5275	5281	1639933691312266550	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	4807ed56b2734bf8
+5311	5318	1639933691352266551	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	266d301bb1bd1ad
+5287	5293	1639933691325599884	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	a9619af5b4b228cb
+5275	5281	1639933691312266550	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	4807ed56b2734bf8
+5281	5287	1639933691318933217	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	f594d4e26c457d04
+5305	5310	1639933691342266550	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	2070fd45ed42270e
+49	5275	1639933691308933216	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	9f81fff0b50f19ab
+5281	5287	1639933691318933217	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	f594d4e26c457d04
+49	5275	1639933691308933216	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	9f81fff0b50f19ab
+5305	5310	1639933691342266550	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	2070fd45ed42270e
+5299	5305	1639933691338933217	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	7b558d8a231310ab
+5299	5305	1639933691338933217	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	7b558d8a231310ab
+0	48	1639933686082266514	/home/squid/Projects/C++_Programing/RayLib/PaddleBall/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	610114885738654f
+5293	5299	1639933691332266551	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	c92ca7bb6bad3986
